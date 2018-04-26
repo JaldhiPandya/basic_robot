@@ -21,7 +21,7 @@ Test Case:1
 	Should Be Equal		${MESSAGE}	Hello world!!
 
 Test Case:2
-	[Tags]				Positive
+	[Tags]				Negative
 	[Documentation]		Verify that both messages should be equal.
 	Should Be Equal	    ${MESSAGE}	Hello world 
 
