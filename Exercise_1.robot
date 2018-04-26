@@ -53,7 +53,7 @@ Test Case:5-2
     My String Length
 
 Test Case:5-3
-	[Tags]				Positive
+	[Tags]				Negative
     [Documentation]     Length of strings are different
     My String Length    Volansys    Technologies
 
